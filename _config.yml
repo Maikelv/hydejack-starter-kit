@@ -24,7 +24,7 @@ title:                 Maikel Vanhees
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  
+
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -152,7 +152,7 @@ hydejack:
   no_push_state:       false
 
   # Set to `true` if you want to disable the drawer
-  no_drawer:           false
+  no_drawer:           true
 
   # Set to `true` to prevent usage of `hy-img` (lazy-loading images).
   no_img:              false
